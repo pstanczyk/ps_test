@@ -16,7 +16,11 @@ functionDouble (double d)
     return d*2.0;
 }
 
+void
+functionBranch1()
+{
 }
+
 int 
 main (int argc, char ** argv)
 {
