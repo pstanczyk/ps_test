@@ -1,7 +1,7 @@
 int
 function()
 {
-    return 1;
+    return 10;
 }
 
 int
